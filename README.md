@@ -8,8 +8,17 @@
                                                       cheap - fast - crypto - remote kick - more!
 ```
 
-# TalkoTools
+#                                                         ❄️ TalkoTools ❄️
 
 ## designed for educarional purposes ONLY, im not liable for anything you do with this, also all of these are strictly against talkomatics TOS
+
+|tool | bot amount | speed | paid |
+|---|---|---|---|
+| AutoKick | 2-3 bots | fast | yes |
+| room botter | depends | fast | no |
+| spammer | 2-3 bots | fast |  yes |
+
+
+easy, fast and CHEAP!
 
 ***join https://discord.gg/rRM4qhTc to buy full access***
