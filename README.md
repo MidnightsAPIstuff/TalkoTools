@@ -7,3 +7,9 @@
                                                                        V2.5
                                                       cheap - fast - crypto - remote kick - more!
 ```
+
+# TalkoTools
+
+## designed for educarional purposes ONLY, im not liable for anything you do with this, also all of these are strictly against talkomatics TOS
+
+***join https://discord.gg/rRM4qhTc to buy full access***
