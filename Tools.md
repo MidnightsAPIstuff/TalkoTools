@@ -1,7 +1,7 @@
 #                                                         ❄️ TalkoTools ❄️
 
-|tool | bot amount | speed |
+|tool | bot amount | speed | | paid |
 |---|---|---|
-| AutoKick | 2-3 bots | fast |
-| room botter | depends | fast |
-| spammer | 2-3 bots | fast |
+| AutoKick | 2-3 bots | fast | | yes |
+| room botter | depends | fast | | no |
+| spammer | 2-3 bots | fast | | yes |
