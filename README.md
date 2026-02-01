@@ -5,7 +5,7 @@
                                                    / / / /_/ / / ,< / /_/ / / / /_/ / /_/ / (__  ) 
                                                   /_/  \__,_/_/_/|_|\____/_/  \____/\____/_/____/  
                                                                        V2.5
-                                                      cheap - fast - crypto - remote kick - more!
+                                                  cheap - fast - crypto - remote kick - more!
 ```
 
 #                                                         ❄️ TalkoTools ❄️
